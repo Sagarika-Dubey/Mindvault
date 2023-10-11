@@ -624,6 +624,7 @@ form button:hover {
 @media (max-width: 760px) {
     .form-popup {
         width: 95%;
+        height: 95%;
     }
 
     .form-box .form-details {
